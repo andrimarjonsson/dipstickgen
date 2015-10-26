@@ -1,0 +1,55 @@
+{
+    "chipName": "ATMega 32",
+    "package": "dip40",
+    "numPins": 40,
+    "width": 12,
+    "height": 50,
+    "pins": [
+        { "name": "PB0", "num": 1, "aliases": [], "group": "group1" },
+        { "name": "PB1", "num": 2, "aliases": [], "group": "group1" },
+        { "name": "PB2", "num": 3, "aliases": [], "group": "group1" },
+        { "name": "PB3", "num": 4, "aliases": [], "group": "group1" },
+        { "name": "PB4", "num": 5, "aliases": [], "group": "group1" },
+        { "name": "PB5", "num": 6, "aliases": [], "group": "group1" },
+        { "name": "PB6", "num": 7, "aliases": [], "group": "group1" },
+        { "name": "PB7", "num": 8, "aliases": [], "group": "group1" },
+
+        { "name": "RST", "num": 9, "aliases": [], "group": "reset" },
+        { "name": "VCC", "num": 10, "aliases": [], "group": "vcc" },
+        { "name": "GND", "num": 11, "aliases": [], "group": "gnd" },
+        { "name": "XTAL2", "num": 12, "aliases": [], "group": "" },
+        { "name": "XTAL1", "num": 13, "aliases": [], "group": "" },
+
+        { "name": "PD0", "num": 14, "aliases": [], "group": "group2" },
+        { "name": "PD1", "num": 15, "aliases": [], "group": "group2" },
+        { "name": "PD2", "num": 16, "aliases": [], "group": "group2" },
+        { "name": "PD3", "num": 17, "aliases": [], "group": "group2" },
+        { "name": "PD4", "num": 18, "aliases": [], "group": "group2" },
+        { "name": "PD5", "num": 19, "aliases": [], "group": "group2" },
+        { "name": "PD6", "num": 20, "aliases": [], "group": "group2" },
+        { "name": "PD7", "num": 21, "aliases": [], "group": "group2" },
+        
+        { "name": "PC0", "num": 22, "aliases": [], "group": "group3" },
+        { "name": "PC1", "num": 23, "aliases": [], "group": "group3" },
+        { "name": "PC2", "num": 24, "aliases": [], "group": "group3" },
+        { "name": "PC3", "num": 25, "aliases": [], "group": "group3" },
+        { "name": "PC4", "num": 26, "aliases": [], "group": "group3" },
+        { "name": "PC5", "num": 27, "aliases": [], "group": "group3" },
+        { "name": "PC6", "num": 28, "aliases": [], "group": "group3" },
+        { "name": "PC7", "num": 29, "aliases": [], "group": "group3" },
+        
+        { "name": "AVCC", "num": 30, "aliases": [], "group": "vcc" },
+        { "name": "GND", "num": 31, "aliases": [], "group": "gnd" },
+        { "name": "AREF", "num": 32, "aliases": [], "group": "vcc" },
+        
+        { "name": "PA7", "num": 33, "aliases": [], "group": "group4" },
+        { "name": "PA6", "num": 34, "aliases": [], "group": "group4" },
+        { "name": "PA5", "num": 35, "aliases": [], "group": "group4" },
+        { "name": "PA4", "num": 36, "aliases": [], "group": "group4" },
+        { "name": "PA3", "num": 37, "aliases": [], "group": "group4" },
+        { "name": "PA2", "num": 38, "aliases": [], "group": "group4" },
+        { "name": "PA1", "num": 39, "aliases": [], "group": "group4" },
+        { "name": "PA0", "num": 40, "aliases": [], "group": "group4" }
+    ]
+}
+

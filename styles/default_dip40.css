@@ -1,0 +1,108 @@
+svg
+{
+  fill: #FFFFFF;
+}
+
+text
+{
+  fill:#000000;
+}
+
+text.left
+{}
+
+text.right
+{
+  text-anchor: end;
+}
+
+.debugborder
+{
+  stroke: #000000;
+  stroke-width: 0.05mm; 
+  fill: none;
+  visibility: hidden;
+}
+
+.pin
+{
+  stroke: #000000;
+  stroke-width: 0.025mm;
+}
+
+text.pin
+{
+  font-family: Arial;
+  font-size: 0.4mm;
+  stroke-width: 0px;
+}
+
+.group1
+{
+  fill: #F0F0F0;
+}
+
+text.group1
+{
+  fill: #0F0F0F;
+}
+
+.group2
+{
+  fill: #FFFF00;
+}
+
+text.group2
+{
+  fill: #00FFFF;
+}
+
+.group3
+{
+  fill: #FF00FF;
+}
+
+text.group3
+{
+  fill: #00FF00;
+}
+
+.group4
+{
+  fill: #0000FF;
+}
+
+text.group4
+{
+  fill: #FF0000;
+}
+
+.vcc
+{
+  fill: #FF0000;
+}
+
+text.vcc
+{
+  fill: #000000;
+}
+
+.gnd
+{
+  fill: #000000;
+}
+
+text.gnd
+{
+  fill: #FFFFFF;
+}
+
+.reset
+{
+  fill: #FFFFFF;
+}
+
+text.reset
+{
+  fill: #0000FF;
+}
