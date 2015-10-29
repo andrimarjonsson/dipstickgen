@@ -39,52 +39,52 @@ text.pin
 
 .group1
 {
-  fill: #F0F0F0;
+  fill: #8FC858;
 }
 
 text.group1
 {
-  fill: #0F0F0F;
+  fill: #000000;
 }
 
 .group2
 {
-  fill: #FFFF00;
+  fill: #51549B;
 }
 
 text.group2
 {
-  fill: #00FFFF;
+  fill: #000000;
 }
 
 .group3
 {
-  fill: #FF00FF;
+  fill: #DFBF62;
 }
 
 text.group3
 {
-  fill: #00FF00;
+  fill: #000000;
 }
 
 .group4
 {
-  fill: #0000FF;
+  fill: #C5577C;
 }
 
 text.group4
 {
-  fill: #FF0000;
+  fill: #000000;
 }
 
 .vcc
 {
-  fill: #FF0000;
+  fill: #FFFFFF;
 }
 
 text.vcc
 {
-  fill: #000000;
+  fill: #FF0000;
 }
 
 .gnd
