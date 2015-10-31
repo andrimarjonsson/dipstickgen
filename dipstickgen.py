@@ -1,4 +1,3 @@
-from PIL import Image, ImageDraw
 import svgwrite
 import json
 import argparse
