@@ -1,6 +1,9 @@
 #DIP Sticker Generator
 Script to help generate pinout images that can be printed and glued to any DIP package microcontroller.
 
+##Dependencies
+* svgwrite: `pip install svgwrite`
+
 ##Usage
 ```shell
 $ python dipstickgen.py -h
